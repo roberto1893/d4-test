@@ -1,0 +1,21 @@
+nav > a {
+    color:crimson;
+    font-style: normal;
+
+}
+
+.about > blockquote {
+    background-color: #eaeaea;
+}
+
+.users > p > span {
+    font-weight: bold;
+}
+
+.users > span {
+    color: crimson;
+}
+
+.creators > a {
+    
+}
